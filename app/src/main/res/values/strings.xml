@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiometricAuthentication</string>
+    <string name="title_fingerprint">Login With Touch ID</string>
+    <string name="desc_fingerprint">Use your Touch ID for faster, easier access to your account.</string>
+    <string name="authentication">Authentication</string>
+    <string name="email">Login With Email</string>
+    <string name="use_touch_id">Use Touch ID</string>
+</resources>
